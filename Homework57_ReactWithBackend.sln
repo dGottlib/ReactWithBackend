@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework57_ReactWithBackend.Web", "Homework57_ReactWithBackend.Web\Homework57_ReactWithBackend.Web.csproj", "{26037FE1-1E13-4A4E-B676-8EDFA980229C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework57_ReactWithBackend.Data", "Homework57_ReactWithBackend.Data\Homework57_ReactWithBackend.Data.csproj", "{A1DCE0FF-55A2-4BB3-85E2-202EA472AE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26037FE1-1E13-4A4E-B676-8EDFA980229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26037FE1-1E13-4A4E-B676-8EDFA980229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26037FE1-1E13-4A4E-B676-8EDFA980229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26037FE1-1E13-4A4E-B676-8EDFA980229C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DCE0FF-55A2-4BB3-85E2-202EA472AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DCE0FF-55A2-4BB3-85E2-202EA472AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DCE0FF-55A2-4BB3-85E2-202EA472AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DCE0FF-55A2-4BB3-85E2-202EA472AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C08755-3004-4850-BC12-669B4283CB7B}
+	EndGlobalSection
+EndGlobal
