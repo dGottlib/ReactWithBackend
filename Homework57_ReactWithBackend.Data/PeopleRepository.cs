@@ -30,8 +30,7 @@ namespace Homework57_ReactWithBackend.Data
         public void Update(Person person)
         {
             using var context = new PeopleDataContext(_connectionString);
-            context.People.Attach(person);
-            context.Entry(person).State = EntityState.Modified;
+            context.People.Update(person);        
             context.SaveChanges();
         }
 
